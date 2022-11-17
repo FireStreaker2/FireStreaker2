@@ -14,7 +14,9 @@ i enjoy python, html/js/css, and messing around with random languages i dont kno
 Languages I Use
 </br>
 [![Languages I Use](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+</br>
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStreaker2)](https://github.com/anuraghazra/github-readme-stats)
