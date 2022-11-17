@@ -16,7 +16,7 @@ Languages I Use
 [![Languages I Use](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 </br>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStreaker2)](https://github.com/anuraghazra/github-readme-stats)
