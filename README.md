@@ -6,6 +6,7 @@ website: firestreaker2.gq
 
 
 i enjoy python, html/js/css, and messing around with random languages i dont know
+</br>
 [![Languages I Use](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 
