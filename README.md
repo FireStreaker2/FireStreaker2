@@ -6,14 +6,12 @@ website: firestreaker2.gq
 
 
 i enjoy python, html/js/css, and messing around with random languages i dont know
+[![Languages I Use](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 
 ![FireStreaker2 github stats](https://github-readme-stats.vercel.app/api?username=FireStreaker2&show_icons=true&hide_border=true)    
 </br>
 
-Languages I Use
-</br>
-[![Languages I Use](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 </br>
 
 [![Profile Trophies](https://github-profile-trophy.vercel.app/?username=FireStreaker2&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
