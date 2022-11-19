@@ -21,7 +21,3 @@ i enjoy python, html/js/css, and messing around with random languages i dont kno
 
 </br>
 
-/* add soon
-[![FireStreaker2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FireStreaker2)](https://github.com/anuraghazra/github-readme-stats)
-
-*/
