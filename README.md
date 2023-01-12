@@ -17,7 +17,7 @@ i enjoy python, html/js/css, and messing around with random languages i dont kno
 
 
 
-![FireStreaker2 github stats](https://github-readme-stats.vercel.app/api?username=FireStreaker2&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireStreaker2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![FireStreaker2 github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FireStreaker2&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FireStreaker2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
