@@ -2,11 +2,10 @@
 hi im FireStreaker2! im a self taught web dev living in the us. i mainly build random projects that nobody will ever see, using node.js as the backend and vanilla html/css/js or react for the frontend. i also occasionally use python && java
 
 # Info
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 
 # Tools/Utilities
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,html,css,py,java,git" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,express,html,css,py,java,git" /></a>
 
 # Stats
 <details>
